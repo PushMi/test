@@ -1,5 +1,0 @@
-{{#USer}}
-Name: Pushpa
-Skills: Html, CSS, Python
-Email: pushparajak927@gmail.com
-{{/User}}
