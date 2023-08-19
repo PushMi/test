@@ -1,5 +1,0 @@
-{{/User}}
-Name: Pushpa
-Skills: HTML, CSS, Python
-Email: pushparajak927@gmil.com
-{/User}
